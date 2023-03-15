@@ -14,12 +14,11 @@ Making predictions based on the majority class or average value of the neighbors
 Evaluating the model's performance
 This implementation is suitable for small to medium-sized datasets and serves as a starting point for more advanced implementations.
 
-## Files
+## main Files
 
-- `mnist_downloader.py`: The main Python script that downloads, saves, and loads the MNIST dataset.
-- `knn_mnist_classification.py`:
-- `knn_3d_data_classification.py`:
-- `knn_2d_classification.py`:
+- `knn_mnist_classification.py`: Implement KNN to classify mnist image
+- `knn_3d_data_classification.py`: Implment KNN to classify 3d data point
+- `knn_2d_classification.py`: Implement KNN to classify 2d data point
 
 ## Usage
 
