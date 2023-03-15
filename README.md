@@ -17,9 +17,9 @@ This implementation is suitable for small to medium-sized datasets and serves as
 ## Files
 
 - `mnist_downloader.py`: The main Python script that downloads, saves, and loads the MNIST dataset.
-- 'knn_mnist_classification.py':
-- 'knn_3d_data_classification.py':
-- 'knn_2d_classification.py':
+- `knn_mnist_classification.py`:
+- `knn_3d_data_classification.py`:
+- `knn_2d_classification.py`:
 
 ## Usage
 
